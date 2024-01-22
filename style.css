@@ -1,0 +1,45 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white
+}
+
+.big_image
+{
+    width: 100%
+}
+
+#start, #status
+{
+font-size: 22px;
+}
+
+h4{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width:90;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #8fb1ff;
+    bottom: 0;
+    width: 100%;
+    background-color: #2666de;
+    line-height: 3;
+    text-align: center;
+}
